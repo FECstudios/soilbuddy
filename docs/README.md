@@ -1,6 +1,6 @@
 # 🌱 SoilBuddy
 
-SoilBuddy is a wireless soil moisture sensor I built to monitor my plants without having to constantly check on them. It reads soil moisture levels and hosts a live dashboard over WiFi — no app needed, just open a browser.
+SoilBuddy is a wireless soil moisture sensor I built to monitor my plants without having to constantly check on them. It reads soil moisture levels and hosts a live dashboard over WiFi, no app needed, just open a browser.
 
 > Built with an ESP32, a soil moisture sensor, and a TP4056 for battery charging.
 
@@ -36,6 +36,16 @@ SoilBuddy is a wireless soil moisture sensor I built to monitor my plants withou
 ---
 
 ## Code
+
+Change the lines:
+'''cpp
+
+// ---- WiFi credentials ----
+const char* ssid     = "wifiname";
+const char* password = "wifipassword";
+
+'''
+to your real wifi name and password
 
 Flash the code at [`soilbuddy/codes/working.ino`](../codes/working.ino) to your esp32 wroover board via Arduino IDE
 
