@@ -37,7 +37,7 @@ SoilBuddy is a wireless soil moisture sensor I built to monitor my plants withou
 
 ## 💻 Code
 
-The code is at [`soilbuddy/codes/working.ino`](./codes/working.ino)
+The code is at [`soilbuddy/codes/working.ino`](../codes/working.ino)
 
 ---
 
