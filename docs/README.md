@@ -15,10 +15,15 @@ SoilBuddy is a wireless soil moisture sensor I built to monitor my plants withou
 
 ## 🖼️ Gallery
 
-<img width="396" height="542" alt="Screenshot 2026-06-14 165308" src="https://github.com/user-attachments/assets/82bd563f-afa1-41e7-b363-583506a4f0f4" />
-<img width="474" height="524" alt="Screenshot 2026-06-14 164957" src="https://github.com/user-attachments/assets/26c00d7c-4a46-4bb4-813d-6ae5b6c0c6d0" />
-<img width="356" height="550" alt="Screenshot 2026-06-16 214502" src="https://github.com/user-attachments/assets/b8f6034a-440b-4038-8273-d0208b6e4565" />
-
+<div align="center">
+<table>
+<tr>
+<td><img width="250" src="https://github.com/user-attachments/assets/82bd563f-afa1-41e7-b363-583506a4f0f4" /></td>
+<td><img width="250" src="https://github.com/user-attachments/assets/26c00d7c-4a46-4bb4-813d-6ae5b6c0c6d0" /></td>
+<td><img width="250" src="https://github.com/user-attachments/assets/b8f6034a-440b-4038-8273-d0208b6e4565" /></td>
+</tr>
+</table>
+</div>
 ---
 
 ## Schematics
