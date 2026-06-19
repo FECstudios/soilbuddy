@@ -6,7 +6,7 @@ SoilBuddy is a wireless soil moisture sensor I built to monitor my plants withou
 
 ---
 
-## 📹 Demo
+## Demo
 
 
 <!-- add demo video link here -->
@@ -19,13 +19,13 @@ SoilBuddy is a wireless soil moisture sensor I built to monitor my plants withou
 
 ---
 
-## 📐 Schematics
+## Schematics
 
 <img width="3000" height="2585" alt="circuit_image" src="https://github.com/user-attachments/assets/4f74fcf4-ab1a-4eba-a8c0-07eedae82ccc" />
 
 ---
 
-## 🧰 Components
+## Components
 
 - ESP32 WROOM (Type-C, 30 pin)
 - TP4056 Li-ion charging module
@@ -35,13 +35,13 @@ SoilBuddy is a wireless soil moisture sensor I built to monitor my plants withou
 
 ---
 
-## 💻 Code
+## Code
 
-The code is at [`soilbuddy/codes/working.ino`](../codes/working.ino)
+Flash the code at [`soilbuddy/codes/working.ino`](../codes/working.ino) to your esp32 wroover board via Arduino IDE
 
 ---
 
-## 🔌 Wiring
+## Wiring
 
 | Component | Pin | ESP32 Pin |
 |-----------|-----|-----------|
