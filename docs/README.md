@@ -4,6 +4,8 @@ SoilBuddy is a wireless soil moisture sensor I built to monitor my plants withou
 
 > Built with an ESP32, a soil moisture sensor, and a TP4056 for battery charging.
 
+<img width="385" height="587" alt="image" src="https://github.com/user-attachments/assets/0f99911f-30cd-4ef7-b38d-c76f2717a123" />
+
 ---
 
 ## Demo
