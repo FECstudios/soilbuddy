@@ -64,4 +64,4 @@ const char* password = "wifipassword";
 
 ---
 
-*Made by [your name] — Zafer College*
+*Made by [Kuzey (@craftfec) and Derin (@derinozel5)]
