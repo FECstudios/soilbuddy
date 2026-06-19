@@ -64,4 +64,4 @@ const char* password = "wifipassword";
 
 ---
 
-*Made by [Kuzey (@craftfec) and Derin (@derinozel5)]
+Made by Kuzey (@craftfec) and Derin (@derinozel5)
