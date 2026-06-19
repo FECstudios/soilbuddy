@@ -37,17 +37,16 @@ SoilBuddy is a wireless soil moisture sensor I built to monitor my plants withou
 
 ## Code
 
-Change the lines:
-'''cpp
+1. Open [`soilbuddy/codes/working.ino`](../codes/working.ino) in Arduino IDE
+2. Find these lines and change them to your WiFi credentials:
 
+```cpp
 // ---- WiFi credentials ----
 const char* ssid     = "wifiname";
 const char* password = "wifipassword";
+```
 
-'''
-to your real wifi name and password
-
-Flash the code at [`soilbuddy/codes/working.ino`](../codes/working.ino) to your esp32 wroover board via Arduino IDE
+3. Flash the code to your ESP32 WROOM board
 
 ---
 
