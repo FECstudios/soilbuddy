@@ -9,7 +9,7 @@ SoilBuddy is a wireless soil moisture sensor I built to monitor my plants withou
 ## Demo
 
 
-<!-- add demo video link here -->
+
 
 ---
 
@@ -24,6 +24,8 @@ SoilBuddy is a wireless soil moisture sensor I built to monitor my plants withou
 </tr>
 </table>
 </div>
+
+
 ---
 
 ## Schematics
